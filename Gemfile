@@ -34,6 +34,8 @@ end
 
 gem 'devise'
 
+gem 'devise-token_authenticatable'
+
 gem 'protected_attributes'
 
 # Use ActiveModel has_secure_password
